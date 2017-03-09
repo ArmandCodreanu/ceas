@@ -1,0 +1,17 @@
+/*  INFINITY   */
+@font-face {
+    font-family: 'Infinity';
+    src: url('../fonts/Infinity/Infinity.ttf');
+}
+
+/*  RALEWAY   */
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway/raleway_thin-webfont.ttf');
+}
+
+/*  MONTSERRAT   */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
